@@ -23,6 +23,7 @@ export class Card extends Component {
   createTemplate(){
     return `
     <div>
+      <li class= "pet data"><p>${this.petList.id}</p></li>
       <li class= "pet data"><p>${this.petList.name}</p></li>
       <li class= "pet data"><p>${this.petList.breed}</p></li>
       <li class= "pet data"><p>${this.petList.isAdopted}</p></li>

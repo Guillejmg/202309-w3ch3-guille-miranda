@@ -7,5 +7,5 @@ export default {
   resolver: 'jest-ts-webcompat-resolver',
   moduleNameMapper: {
     '\\.(css|scss)$': 'identity-obj-proxy',
-   },
+  },
 };
