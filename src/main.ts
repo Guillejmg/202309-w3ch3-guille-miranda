@@ -12,7 +12,6 @@ function main () {
   new Header('#app');
   new List('#app');
   new Footer('#app');
-
 }
 
 main();
