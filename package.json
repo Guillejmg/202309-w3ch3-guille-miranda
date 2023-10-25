@@ -14,7 +14,7 @@
     "sass": "sass scss:css -w --no-source-map"
   },
   "keywords": [],
-  "author": "Guillermo Jose Miranda Galeote",
+  "author": "Guillermo J Miranda Galeote",
   "license": "ISC",
   "prettier": {
     "singleQuote": true
@@ -30,6 +30,7 @@
     "eslint-config-xo-typescript": "^1.0.1",
     "husky": "^8.0.0",
     "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
     "jest-ts-webcompat-resolver": "^1.0.0",
     "sass": "^1.69.3",
     "ts-jest": "^29.1.1",
