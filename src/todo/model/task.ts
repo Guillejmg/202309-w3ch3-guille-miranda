@@ -1,6 +1,6 @@
 export type Task = {
-  id: string;
-	name: string;
-  owner: string;
-  isCompleted: boolean
+id: string;
+name: string;
+owner: string;
+isCompleted: boolean
 };
